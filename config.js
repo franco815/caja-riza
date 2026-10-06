@@ -4,7 +4,7 @@ window.RIZA_CONFIG = {
   // ID de la planilla "Caja RIZA". Es la parte larga del link:
   // https://docs.google.com/spreadsheets/d/  ESTO_ES_EL_ID  /edit
   // Mientras esté vacío, el dashboard muestra datos de ejemplo.
-  sheetId: "",
+  sheetId: "1oSeHloO9G6KuRSRZKFjxjjGBqon56ncMNuVKeY5J9ko",
 
   sheetName: "Respuestas",
   nombre: "RIZA",
